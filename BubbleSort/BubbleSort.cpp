@@ -23,9 +23,7 @@ int main()
 				arr[k + 1] = tmp;
 
 			}
-
 		}
-
 	}
 
 	std::cout << "\nArray sorted successfully! New array:" << std::endl;
